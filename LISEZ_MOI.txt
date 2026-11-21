@@ -1,1 +1,1 @@
-Version 15.4 complète. Le calcul du BSI reste actif en interne, mais sa formule et ses coefficients ne sont plus affichés dans l’interface.
+Version 17.04 complète. Statistiques développées par boule et par condition, avec moyennes, écarts à la moyenne, adéquation, confiance et meilleures conditions.
