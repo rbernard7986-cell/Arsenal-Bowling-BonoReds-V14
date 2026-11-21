@@ -1,0 +1,1 @@
+Version 14.2 complète. Ajout du type de lâcher Normal/Backup au profil joueur. Suppression de Continuation observée. Renommage en Puissance de coverstock observée.
