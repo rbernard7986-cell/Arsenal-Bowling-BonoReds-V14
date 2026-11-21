@@ -1,1 +1,1 @@
-Version 15.4 complète. Nouveau BSI : surface 27 %, puissance de coverstock observée 24 %, type de boule 20 %, noyau symétrique/asymétrique 14 %, layout 7 %, différentiel corrigé 5 %, RG 3 %.
+Version 15.4.1 complète. Base fonctionnelle 15.4 avec la puissance de coverstock observée comme critère prépondérant du BSI à 40 %. Surface 22 %, type 15 %, noyau 11 %, layout 5 %, différentiel 4 %, RG 3 %.
