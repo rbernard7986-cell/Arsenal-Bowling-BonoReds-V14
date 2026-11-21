@@ -1,1 +1,1 @@
-Version 14.2 complète. Ajout du type de lâcher Normal/Backup au profil joueur. Suppression de Continuation observée. Renommage en Puissance de coverstock observée.
+Version 15.4 complète. Nouveau BSI : surface 27 %, puissance de coverstock observée 24 %, type de boule 20 %, noyau symétrique/asymétrique 14 %, layout 7 %, différentiel corrigé 5 %, RG 3 %.
