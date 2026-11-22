@@ -1,1 +1,1 @@
-Version 18 complète. Les layouts personnalisés sont classés automatiquement par comparaison aux profils Fort, Benchmark, Skid-flip, Contrôle polyvalent et Contrôle maximal. Coefficient, lecture, forme et confiance sont calculés.
+Version 19 complète. Identique à la version 18.1, avec suivi des dates du dernier étuvage et resurfaçage et nombre de parties depuis chaque entretien.
