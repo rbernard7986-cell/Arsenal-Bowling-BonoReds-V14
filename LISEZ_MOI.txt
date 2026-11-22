@@ -1,1 +1,1 @@
-Version 17.04 complète. Statistiques développées par boule et par condition, avec moyennes, écarts à la moyenne, adéquation, confiance et meilleures conditions.
+Version 18 complète. Les layouts personnalisés sont classés automatiquement par comparaison aux profils Fort, Benchmark, Skid-flip, Contrôle polyvalent et Contrôle maximal. Coefficient, lecture, forme et confiance sont calculés.
