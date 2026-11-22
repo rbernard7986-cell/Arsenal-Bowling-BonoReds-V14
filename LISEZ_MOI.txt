@@ -1,1 +1,1 @@
-Version 19 complète. Identique à la version 18.1, avec suivi des dates du dernier étuvage et resurfaçage et nombre de parties depuis chaque entretien.
+Version 19.1 complète. Seul l’onglet Sauvegarde est amélioré : export JSON fiable avec partage iPhone ou téléchargement navigateur, confirmation visuelle, import contrôlé et option Réinitialiser sécurisée.
